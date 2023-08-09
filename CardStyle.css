@@ -1,0 +1,95 @@
+.branch-card {
+    font-family: 'Poppins', sans-serif;
+    width: 28%;
+    border-radius: 12px;
+    box-shadow: 0px 2px 8px 0px #ababab;
+    padding: 16px 24px;
+    position: relative;
+    border: 1px solid #ccc;
+    margin: 50px auto;
+    overflow: hidden;
+}
+
+.branch-property {
+    color: #595959;
+    font-size: 20px;
+    font-weight: 400;
+    margin-bottom: 8px;
+}
+
+.branch-total{
+    color: #4A4A4A;
+    font-size: 24px;
+    font-weight: 500;
+    margin-left: 6px;
+}
+
+.branch {
+    color: #6C6C6C;
+    font-weight: 500;
+    font-size: 26px;
+    margin-bottom: 10px;
+}
+
+.working-property {
+    color: #769321;
+    font-size: 18px;
+    font-weight: 400;
+    margin: 0;
+}
+
+.progress-bar, .progress {
+    background-image: linear-gradient(to right, #ADC67A , #85C86D) !important;
+    border-radius: 6px !important;
+    height: 8PX !important;
+}
+
+.progress-percent {
+    font-size: 14px;
+    text-align: right;
+    font-weight: 600;
+    color: #555555;
+    margin-bottom: 6px;
+}
+
+.branch-accounts {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.holiday-count {
+    color: #4C72D3;
+    font-size: 24px;
+    font-weight: 500;
+    margin-left: 4px;
+}
+
+.present-count {
+    color: #37a335;
+    font-size: 24px;
+    font-weight: 500;
+    margin-left: 4px;
+}
+
+.absent-count {
+    color: #D34C4C;
+    font-size: 24px;
+    font-weight: 500;
+    margin-left: 4px;
+}
+
+.trapezoid {
+    height: 84px;
+    width: 130px;
+    background-color: #ffffff;
+    position: absolute;
+    top: 0;
+    right: 47px;
+    transform: skew(-25deg);
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 16px;
+    box-shadow: inset 0px 0px 10px 0px #e5e3e3;
+}
+
+ 
